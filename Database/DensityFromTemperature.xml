@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <substance id="1">
+    <point>
+      <x>-20</x>
+      <y>1582</y>
+    </point>
+    <point>
+      <x>0</x>
+      <y>1547</y>
+    </point>
+    <point>
+      <x>20</x>
+      <y>1513</y>
+    </point>
+  </substance>
+</data>
