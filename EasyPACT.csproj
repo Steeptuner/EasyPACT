@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="CalcMath.cs" />
     <Compile Include="CodeFile1.cs" />
-    <Compile Include="Database.cs" />
     <Compile Include="Liquid.cs" />
     <Compile Include="Pipeline.cs" />
     <Compile Include="Program.cs" />
